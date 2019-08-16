@@ -1,0 +1,50 @@
+@font-face {
+  font-family: "FuturaNo2D W03 Regular";
+  src: url("fonts/1530819/fb371eee-920f-45f4-a243-428bed81c9ff.eot?#iefix");
+  src: url("fonts/1530819/fb371eee-920f-45f4-a243-428bed81c9ff.eot?#iefix") format("eot"), url("fonts/1530819/6fa29c75-36d9-441b-8a82-a1ebb08b936d.woff2") format("woff2"), url("fonts/1530819/ca643cc6-3924-451a-8de9-b9989ba01bc4.woff") format("woff"), url("fonts/1530819/4bead669-11d0-47f6-917c-ec33d556ef10.ttf") format("truetype"); }
+.current-page-link {
+  color: red; }
+
+body {
+  color: #222;
+  font-family: "FuturaNo2D W03 Regular";
+  font-size: 16pt; }
+
+h1 {
+  font-size: 2em;
+  line-height: 0.1em; }
+
+h2 {
+  font-size: 1.4em; }
+
+h3 {
+  font-size: 1.0em; }
+
+h4 {
+  font-size: 0.7em; }
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.top-nav {
+  display: block;
+  max-width: 800px;
+  padding-top: 32px; }
+
+.content-body {
+  width: 80%;
+  max-width: 800px; }
+
+.hero-main {
+  display: block; }
+
+.singular-center {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.post-list ul a {
+  color: #000;
+  text-decoration: underline; }
