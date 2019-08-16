@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/categories/finalfantasyxiv.html</loc>
-<lastmod>2019-08-15T19:09:31-07:00</lastmod>
+<lastmod>2019-08-15T22:49:35-07:00</lastmod>
 </url>
 <url>
 <loc>/categories/general.html</loc>
-<lastmod>2019-08-15T19:09:31-07:00</lastmod>
+<lastmod>2019-08-15T22:49:35-07:00</lastmod>
 </url>
 <url>
 <loc>/general/2019/08/14/just-arrived.html</loc>
@@ -15,6 +15,10 @@
 <url>
 <loc>/finalfantasyxiv/2019/08/14/my-character.html</loc>
 <lastmod>2019-08-14T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>/general/2019/08/15/melbourne-vs-seattle.html</loc>
+<lastmod>2019-08-15T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>/blog.html</loc>
