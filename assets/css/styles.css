@@ -42,8 +42,15 @@ h4 {
 
 .singular-center {
   display: flex;
+  display: -webkit-box;
   align-items: center;
-  justify-content: center; }
+  justify-content: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-align: center; }
+  .singular-center img {
+    width: 100%; }
+  .singular-center video {
+    width: 100%; }
 
 .post-list ul a {
   color: #000;
