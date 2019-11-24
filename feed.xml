@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-08-24T16:18:09-07:00</updated><id>/feed.xml</id><title type="html">Aren Villanueva</title><subtitle>Aren Villanueva's resume, blog and musings on life. Talks about video games like Final Fantasy XIV, software engineering and development, personal finance and early retirement plans and finally self directed trading.</subtitle><entry><title type="html">Mt Rainier</title><link href="/general/2019/08/24/mt-rainier.html" rel="alternate" type="text/html" title="Mt Rainier" /><published>2019-08-24T00:00:00-07:00</published><updated>2019-08-24T00:00:00-07:00</updated><id>/general/2019/08/24/mt-rainier</id><content type="html" xml:base="/general/2019/08/24/mt-rainier.html">&lt;h2 id=&quot;mt-rainier-sight-seeing&quot;&gt;Mt Rainier sight seeing&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-11-23T17:57:13-08:00</updated><id>/feed.xml</id><title type="html">Aren Villanueva</title><subtitle>Aren Villanueva's resume, blog and musings on life. Talks about video games like Final Fantasy XIV, software engineering and development, personal finance and early retirement plans and finally self directed trading.</subtitle><entry><title type="html">Headphone Measurements</title><link href="/audio/2019/11/23/headphone-measurements.html" rel="alternate" type="text/html" title="Headphone Measurements" /><published>2019-11-23T00:00:00-08:00</published><updated>2019-11-23T00:00:00-08:00</updated><id>/audio/2019/11/23/headphone-measurements</id><content type="html" xml:base="/audio/2019/11/23/headphone-measurements.html">&lt;p&gt;It’s been a while since I’ve written anything, lots of things have happened but mostly work related things that I can’t quite talk about. Today though, I do have something I can talk about!&lt;/p&gt;
+
+&lt;p&gt;I managed to get a hold of some headphone measurement tools, namely the &lt;a href=&quot;https://www.minidsp.com/products/acoustic-measurement/ears-headphone-jig&quot;&gt;EARS by miniDSP&lt;/a&gt;
+Those who know me well know that I own a plethora of headphones and I like audio in general. For the longest time though, I longed for the ability to actually measure what my headphones were like so that I could objectively understand what was going on between the different headphone models and makes. Now that I have that measurement tool, though definitely nowhere near professional quality like the G.R.A.S stuff you should be using to take proper measurements, I put my headphones up to the task.&lt;/p&gt;
+
+&lt;p&gt;What did I find? A lot of interesting things actually. Its one thing to shop for headphones and look at sites like inner fidelity to find out their frequency response and gauge what the sound will be like, and another to actuall measure what you have and know that it is different from what other headphones will be, even if they are the same model. Secondly, having a measurement tool means that I can actually perform modifications like switching out earcups, pads, and even equalizing and see how it affects the headphone objectively.&lt;/p&gt;
+
+&lt;p&gt;Here’s my pair of HD650 that I’ve had for a few years now. I believe I bought them in 2012&lt;/p&gt;
+&lt;section class=&quot;singular-center&quot;&gt;
+    &lt;img src=&quot;https://assets.villanueva.dev/images/HD650.png&quot; /&gt;
+&lt;/section&gt;
+
+&lt;p&gt;Compare this with my pair of HD800 that I’ve had since about 2013&lt;/p&gt;
+&lt;section class=&quot;singular-center&quot;&gt;
+    &lt;img src=&quot;https://assets.villanueva.dev/images/HD800.png&quot; /&gt;
+&lt;/section&gt;
+
+&lt;p&gt;I can now also these to my Massdrop Jubilee HD580x in both woody modded cups and stock&lt;/p&gt;
+&lt;section class=&quot;singular-center&quot;&gt;
+    &lt;img src=&quot;https://assets.villanueva.dev/images/HD58x.png&quot; /&gt;
+&lt;/section&gt;
+
+&lt;p&gt;And my DT770 Pro 250ohms with their old pads&lt;/p&gt;
+&lt;section class=&quot;singular-center&quot;&gt;
+    &lt;img src=&quot;https://assets.villanueva.dev/images/DT770-Pro-250.png&quot; /&gt;
+&lt;/section&gt;
+
+&lt;p&gt;My DT770 Pro 250ohms after I EQ them so that they don’t shred my ears&lt;/p&gt;
+&lt;section class=&quot;singular-center&quot;&gt;
+    &lt;img src=&quot;https://assets.villanueva.dev/images/DT770-Pro-250-EQd.png&quot; /&gt;
+&lt;/section&gt;
+
+&lt;p&gt;And my Fiio FH-1 balanced armature IEMs:&lt;/p&gt;
+&lt;section class=&quot;singular-center&quot;&gt;
+    &lt;img src=&quot;https://assets.villanueva.dev/images/Fiio-IEM.png&quot; /&gt;
+&lt;/section&gt;
+
+&lt;p&gt;It’s quite enlightnening to see all the differences between my headphones! I’ve even gotten &lt;a href=&quot;https://www.thingiverse.com/thing:3463746&quot;&gt;these closed back replacement cups&lt;/a&gt; printed and on the way
+Once they arrive, you can be sure that I’ll be measuring the differences they make!&lt;/p&gt;
+
+&lt;p&gt;I can also measure the effect of different amps and dacs. My current setup is a CEntrance DACport LX paired with one of the first manufacturing runs of JDS Labs O2 amps by &lt;a href=&quot;http://nwavguy.blogspot.com/&quot;&gt;NwAvGuy&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="audio" /><summary type="html">It’s been a while since I’ve written anything, lots of things have happened but mostly work related things that I can’t quite talk about. Today though, I do have something I can talk about!</summary></entry><entry><title type="html">Mt Rainier</title><link href="/general/2019/08/24/mt-rainier.html" rel="alternate" type="text/html" title="Mt Rainier" /><published>2019-08-24T00:00:00-07:00</published><updated>2019-08-24T00:00:00-07:00</updated><id>/general/2019/08/24/mt-rainier</id><content type="html" xml:base="/general/2019/08/24/mt-rainier.html">&lt;h2 id=&quot;mt-rainier-sight-seeing&quot;&gt;Mt Rainier sight seeing&lt;/h2&gt;
 &lt;p&gt;I went to Mt Rainier on the 10th of August to hike a few of its trails. We had hoped that the weather would have been clear enough for us to see the mountain in all of its glory but it was unfortunately raining the whole time we were there.&lt;/p&gt;
 
 &lt;h3 id=&quot;packwood&quot;&gt;Packwood&lt;/h3&gt;

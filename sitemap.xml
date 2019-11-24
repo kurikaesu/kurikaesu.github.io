@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/categories/finalfantasyxiv.html</loc>
-<lastmod>2019-08-24T16:18:09-07:00</lastmod>
+<lastmod>2019-11-23T17:57:13-08:00</lastmod>
 </url>
 <url>
 <loc>/categories/general.html</loc>
-<lastmod>2019-08-24T16:18:09-07:00</lastmod>
+<lastmod>2019-11-23T17:57:13-08:00</lastmod>
 </url>
 <url>
 <loc>/general/2019/08/14/just-arrived.html</loc>
@@ -23,6 +23,10 @@
 <url>
 <loc>/general/2019/08/24/mt-rainier.html</loc>
 <lastmod>2019-08-24T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>/audio/2019/11/23/headphone-measurements.html</loc>
+<lastmod>2019-11-23T00:00:00-08:00</lastmod>
 </url>
 <url>
 <loc>/blog.html</loc>
